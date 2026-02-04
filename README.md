@@ -12,4 +12,8 @@
 
 My current projects:
 
-- [Cytometry in R](https://github.com/UMGCCCFCSR/CytometryInR) Upcoming Cytometry In R mini-course aimed at coding beginners
+- [CytometryInR](https://github.com/UMGCCCFCSR/CytometryInR) Cytometry In R mini-course aimed at coding beginners
+
+- [InstrumentQC](https://umgcccfcsr.github.io/InstrumentQC/) A website to monitor daily QC status of our instruments inreal time
+
+- [BISCC 2025](https://github.com/UMGCCCFCSR/BISCC_2025) Course materials for the 2025 Baltimore Introductory Spectral Cytometry Course
